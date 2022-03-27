@@ -6,12 +6,13 @@
 * Java
 * C++
   
-我学过的技能有
+# 我学过的技能有
 1. UI设计
 2. 网页设计
 3. 三维建模
 4. 动画设计
 
+# 关于我
 我的GitHub链接[在这](https://github.com/jiangyongting0810)
 
 
